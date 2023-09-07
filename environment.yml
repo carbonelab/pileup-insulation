@@ -1,0 +1,6 @@
+channels:
+    - conda-forge
+dependencies:
+    - r-tidyverse
+    - bioconductor-regioner
+    - bioconductor-plyranges
